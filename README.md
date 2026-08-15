@@ -1,4 +1,4 @@
-#🏎️ F1 Teams & Drivers
+🏎️ F1 Teams & Drivers
 
 A beginner-friendly Formula 1 website showcasing the current F1 teams and drivers. Users can explore different teams, view their logos, and visit dedicated pages for more information.
 
