@@ -1,10 +1,11 @@
-🏎️ F1 Teams & Drivers
+#🏎️ F1 Teams & Drivers
 
 A beginner-friendly Formula 1 website showcasing the current F1 teams and drivers. Users can explore different teams, view their logos, and visit dedicated pages for more information.
 
 🌐 Live Website
 
 [[View the Website](http://127.0.0.1:5500/F1%20Drivers%20Website.html)
+
 📖 About the Project
 
 I created this project as one of my first web development projects while learning the fundamentals of HTML and CSS.
